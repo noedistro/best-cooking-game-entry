@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Secrets and credentials — never commit these
+.env
+.env.*
+!.env.example
+*.keypair.json
+*.pem
+*.key
+*.keystore
+
+# Build and submission artefacts (generated, never committed)
+out/
+transcripts.tar.gz
+
+# OS artefacts
+.DS_Store
+Thumbs.db

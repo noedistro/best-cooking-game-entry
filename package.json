@@ -1,0 +1,1 @@
+{"description":"Nadia's Ember Kitchen — a 12-recipe charcoal-grill street kitchen game for the make.fun best cooking game bounty","license":"MIT","name":"best-cooking-game-entry","private":true,"scripts":{"serve":"node serve.ts","test":"node --test tests/"},"type":"module","version":"1.0.0"}
